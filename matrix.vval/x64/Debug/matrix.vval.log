@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Slim 5\source\repos\matrix.vval\main.cpp(34,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Slim 5\source\repos\matrix.vval\main.cpp(35,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Slim 5\source\repos\matrix.vval\main.cpp(45,33): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Slim 5\source\repos\matrix.vval\main.cpp(45,33): warning C4267:         with
+C:\Users\Slim 5\source\repos\matrix.vval\main.cpp(45,33): warning C4267:         [
+C:\Users\Slim 5\source\repos\matrix.vval\main.cpp(45,33): warning C4267:             _Ty=int
+C:\Users\Slim 5\source\repos\matrix.vval\main.cpp(45,33): warning C4267:         ]
+  matrix.vval.vcxproj -> C:\Users\Slim 5\source\repos\matrix.vval\x64\Debug\matrix.vval.exe
